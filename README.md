@@ -7,8 +7,8 @@ you can just check through the codes in py files.
 
 test6.py is current stable
 
-how to run:
-
-1 download /clone \n
-2 run terminal and cd to directory
-3 run command : ```sudo venv/bin/python test6.py```
+how to run:<br />
+<br />
+1 download /clone <br />
+2 run terminal and cd to directory<br />
+3 run command :<br />```sudo venv/bin/python test6.py```
