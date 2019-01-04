@@ -9,6 +9,6 @@ test6.py is current stable
 
 how to run:
 
-1 download /clone
+1 download /clone \n
 2 run terminal and cd to directory
 3 run command : ```sudo venv/bin/python test6.py```
